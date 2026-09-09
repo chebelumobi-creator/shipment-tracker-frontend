@@ -1,7 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import Home from "./Home";
 import TrackResults from "./TrackResults";
-import EmailWidget from "./COMPONENTS/EmailWidget";
+import EmailWidget from "./components/EmailWidget";
 
 function App() {
   return (
