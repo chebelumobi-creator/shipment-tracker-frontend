@@ -734,7 +734,7 @@ export default function Home() {
                 <input
                   type="email"
                   required
-                  placeholder="you@company.com"
+                  placeholder="supportswiftdeliverycargo@gmail.com"
                   className="w-full rounded-md border border-white/20 bg-white/10 px-3 py-2 text-sm text-white placeholder:text-white/50 outline-none"
                 />
                 <button

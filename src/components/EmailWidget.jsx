@@ -21,11 +21,11 @@ export default function EmailWidget() {
             Send us an email and we'll respond within 24 hours.
           </p>
           <a
-            href="mailto:support@swiftdelivery.com?subject=Support Request"
+            href="mailto:supportswiftdeliverycargo@gmail.com.com?subject=Support Request"
             className="gradient-primary flex w-full items-center justify-center gap-2 rounded-lg py-2.5 text-sm font-semibold text-white hover:opacity-90 transition-opacity"
           >
             <Mail className="h-4 w-4" />
-            support@swiftdelivery.com
+            supportswiftdeliverycargo@gmail.com
           </a>
         </div>
       )}
