@@ -224,7 +224,7 @@ export default function Home() {
             </span>
 
             <h1 className="font-display mt-6 text-5xl font-bold leading-[1.05] text-white md:text-7xl">
-              Track any shipment,
+              SwiftDelivery Cargo — track any shipment,
               <br />
               <span className="gradient-text bg-clip-text">anywhere in the world.</span>
             </h1>
@@ -447,7 +447,7 @@ export default function Home() {
             Our Global Presence
           </h2>
           <p className="text-muted-foreground mt-4 text-lg max-w-2xl mx-auto">
-            Swifttrack is a global logistics company that provides end-to-end solutions to meet the needs of customers with a fleet of trucks, planes, and ships.
+            SwiftDelivery Cargo is a global logistics company that provides end-to-end solutions to meet the needs of customers with a fleet of trucks, planes, and ships.
           </p>
         </div>
 
@@ -543,7 +543,7 @@ export default function Home() {
               Our People
             </span>
             <h2 className="font-display mt-2 text-4xl font-bold md:text-5xl">
-              The Team Behind SwiftTrack
+              The Team Behind SwiftDelivery Cargo
             </h2>
             <p className="text-muted-foreground mt-4 text-lg max-w-2xl mx-auto">
               Dedicated professionals working together to ensure your cargo arrives safely and on time.
@@ -589,7 +589,7 @@ export default function Home() {
       <section className="container mx-auto px-4 py-24 md:px-6">
         <div className="mx-auto mb-14 max-w-2xl text-center">
           <span className="text-accent text-sm font-semibold uppercase tracking-wider">
-            Why SwiftTrack
+            Why SwiftDelivery Cargo
           </span>
           <h2 className="font-display mt-2 text-4xl font-bold md:text-5xl">
             Built for people who can't afford to lose track.
@@ -691,7 +691,7 @@ export default function Home() {
                 <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-white/15 backdrop-blur">
                   <Plane className="h-5 w-5 -rotate-45 text-white" />
                 </div>
-                <span className="font-display text-lg font-bold text-white">SwiftDeliveryCargo</span>
+                <span className="font-display text-lg font-bold text-white">SwiftDelivery Cargo</span>
               </div>
               <p className="text-sm leading-relaxed text-white/70">
                 Real-time tracking for packages, luggage, vehicles, and freight — anywhere in the world.
@@ -748,7 +748,7 @@ export default function Home() {
           </div>
 
           <div className="mt-12 flex flex-col items-center justify-between gap-3 border-t border-white/15 pt-6 text-xs text-white/60 md:flex-row">
-            <p>© {new Date().getFullYear()} Swift Delivery Cargo. All rights reserved.</p>
+            <p>© {new Date().getFullYear()} SwiftDelivery Cargo. All rights reserved.</p>
             <div className="flex gap-6">
               <a href="#" className="hover:text-white">Privacy</a>
               <a href="#" className="hover:text-white">Terms</a>
